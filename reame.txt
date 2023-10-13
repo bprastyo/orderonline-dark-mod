@@ -1,0 +1,22 @@
+Cara Menggunakan dan Memasang Ekstensi Dark Mode
+===============================================
+
+Ekstensi ini memungkinkan Anda untuk mengaktifkan mode gelap pada situs web dengan cara mengubah latar belakang dan warna teks. Untuk mengaktifkannya, ikuti langkah-langkah di bawah ini:
+
+1. Instal Ekstensi di Browser Chrome:
+   a. Buka Google Chrome.
+   b. Buka menu (titik tiga di pojok kanan atas) dan pilih "Ekstensi."
+   c. Aktifkan mode pengembang (developer mode) di bagian atas halaman.
+   d. Klik "Muat ekstensi yang belum diunggah" / Load unpacked extension dan pilih folder/select folder yang berisi ekstensi ini.
+
+2. Buka Situs Web yang Ingin Diubah:
+   a. Buka Chrome dan kunjungi situs app.orderonline.id.
+   
+3. Aktifkan Mode Gelap:
+   a. Setelah situs web dimuat, ekstensi ini akan secara otomatis mengubah latar belakang dan warna teks.
+   b. Untuk menonaktifkan mode gelap, cukup nonaktifkan atau hapus ekstensi ini dari Chrome.
+
+Catatan:
+- Ekstensi ini mungkin tidak berfungsi dengan baik jika situs web tersebut mengalami perubahan dalam struktur HTML atau CSS-nya.
+
+Untuk pertanyaan atau bantuan lebih lanjut, hubungi [budi.p.tyo@gmail.com].
