@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Darm Mod OO",
+  "version": "1.0.0",
+  "description": "Mengaktifkan mode gelap secara otomatis pada app.orderonline.id",
+  "permissions": [
+    "activeTab",
+    "https://app.orderonline.id/"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://app.orderonline.id/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
